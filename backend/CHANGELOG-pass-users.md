@@ -60,3 +60,30 @@ Cambios realizados en la rama pass-users del proyecto user:
 ### Archivos modificados
 - M	src/main/java/ar/com/tecnoaccion/controllers/GroupController.java
 
+
+---
+
+## Fecha: 2026-03-10 - 2026-03-10 10:47
+
+### Rama: pass-users
+**Proyecto:** user
+
+### Resumen de cambios
+RESUMEN DE CAMBIOS - RAMA: pass-users
+
+1. Se realizÃ³ una prueba de documentacion automatica en la rama pass-users del proyecto user.
+
+2. El cambio fue realizado por Alejandro en la fecha 2026-03-10.
+
+3. Se modificÃ³ el archivo GroupController.java ubicado en src/main/java/ar/com/tecnoaccion/controllers/.
+
+4. El commit fue clasificado como una prueba de funcionalidad de documentacion automatica.
+
+5. Se trata de un cambio Ãºnico en la rama que afecta directamente el controlador de grupos de la aplicacion.
+
+### Commits
+- 45b0ea0 Prueba documentacion automatica. (por Alejandro, 2026-03-10)
+
+### Archivos modificados
+- M	src/main/java/ar/com/tecnoaccion/controllers/GroupController.java
+
