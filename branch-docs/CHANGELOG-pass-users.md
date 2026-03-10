@@ -90,3 +90,34 @@ Cambios en rama pass-users, proyecto bofe
 ### Archivos modificados
 - M	README.md
 
+
+---
+
+## Fecha: 2026-03-10 - 2026-03-10 10:33
+
+### Rama: pass-users
+**Proyecto:** bofe
+
+### Resumen de cambios
+CAMBIOS REALIZADOS - RAMA: pass-users
+
+1. Se creo nueva pagina de cambio de contrasena en src/app/change-password/page.tsx para gestionar el restablecimiento de credenciales de usuario.
+
+2. Se actualizo el componente LoginInner.tsx en src/app/login/ para integrar la funcionalidad del modal de restablecimiento de contrasena.
+
+3. Se actualizo la configuracion del proyecto Next.js incluyendo next.config.mjs y next-env.d.ts para soportar los nuevos cambios.
+
+4. Se actualizo package-lock.json reflejando las dependencias necesarias para la implementacion de la nueva funcionalidad.
+
+5. La modal permite a los usuarios restablecer su contrasena de forma segura dentro de la aplicacion bofe.
+
+### Commits
+- 220dcab modal restablecer contrase├▒a. (por Alejandro, 2026-03-10)
+
+### Archivos modificados
+- M	next-env.d.ts
+- M	next.config.mjs
+- M	package-lock.json
+- A	src/app/change-password/page.tsx
+- M	src/app/login/LoginInner.tsx
+
