@@ -114,3 +114,30 @@ RESUMEN DE CAMBIOS
 ### Archivos modificados
 - M	src/main/java/ar/com/tecnoaccion/controllers/GroupController.java
 
+
+---
+
+## Fecha: 2026-03-10 - 2026-03-10 10:51
+
+### Rama: pass-users
+**Proyecto:** user
+
+### Resumen de cambios
+CAMBIOS EN LA RAMA pass-users - PROYECTO user
+
+1. Se modifico el archivo GroupController.java ubicado en src/main/java/ar/com/tecnoaccion/controllers/
+
+2. El cambio corresponde a la fecha 2026-03-10 y fue realizado por Alejandro
+
+3. El proposito del commit es realizar una prueba de documentacion automatica
+
+4. Se trata de una modificacion (M) en un archivo controlador de grupos existente
+
+5. El cambio afecta directamente la capa de controladores de la aplicacion
+
+### Commits
+- fa7d3c8 Prueba documentacion automatica. (por Alejandro, 2026-03-10)
+
+### Archivos modificados
+- M	src/main/java/ar/com/tecnoaccion/controllers/GroupController.java
+
