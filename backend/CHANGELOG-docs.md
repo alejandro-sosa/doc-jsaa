@@ -40,3 +40,30 @@ Fecha: 2026-03-10
 - M	src/main/java/ar/com/tecnoaccion/services/AuthService.java
 - A	src/main/java/ar/com/tecnoaccion/services/MailService.java
 
+
+---
+
+## Fecha: 2026-03-10 - 2026-03-10 16:50
+
+### Rama: docs
+**Proyecto:** user
+
+### Resumen de cambios
+Cambios realizados en la rama docs del proyecto user:
+
+1. Commit del 10 de marzo de 2026 realizado por Alejandro con el mensaje "prueba docs"
+
+2. Archivo modificado: .gitlab-ci.yml - archivo de configuracion de integracion continua en GitLab
+
+3. El cambio corresponde a la rama de documentacion del proyecto
+
+4. Se modifico la configuracion de CI/CD posiblemente para probar cambios en el pipeline de documentacion
+
+5. El cambio aun esta en revision en la rama docs sin haber sido integrado a la rama principal
+
+### Commits
+- b5b0b40 prueba docs (por Alejandro, 2026-03-10)
+
+### Archivos modificados
+- M	.gitlab-ci.yml
+
