@@ -31,3 +31,30 @@ Cambios en rama pass-users del proyecto bofe:
 ### Archivos modificados
 - M	README.md
 
+
+---
+
+## Fecha: 2026-03-10 - 2026-03-10 10:38
+
+### Rama: pass-users
+**Proyecto:** user
+
+### Resumen de cambios
+Resumen de cambios - Rama pass-users
+
+1. Se agrego documentacion automatica como prueba en el controlador de grupos.
+
+2. Se modifico el archivo GroupController.java ubicado en src/main/java/ar/com/tecnoaccion/controllers/.
+
+3. El cambio fue realizado por Alejandro el 10 de marzo de 2026.
+
+4. La modificacion corresponde al proyecto user y esta en la rama pass-users.
+
+5. Se trata de una tarea de prueba para implementar documentacion automatica en el codigo.
+
+### Commits
+- 3df70ba Prueba documentacion automatica. (por Alejandro, 2026-03-10)
+
+### Archivos modificados
+- M	src/main/java/ar/com/tecnoaccion/controllers/GroupController.java
+
