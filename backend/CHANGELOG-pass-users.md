@@ -141,3 +141,34 @@ CAMBIOS EN LA RAMA pass-users - PROYECTO user
 ### Archivos modificados
 - M	src/main/java/ar/com/tecnoaccion/controllers/GroupController.java
 
+
+---
+
+## Fecha: 2026-03-10 - 2026-03-10 15:50
+
+### Rama: pass-users
+**Proyecto:** user
+
+### Resumen de cambios
+RESUMEN DE CAMBIOS - RAMA: pass-users
+
+1. Se agregaron metodos de restablecimiento de contrasena en el servicio de autenticacion (AuthService.java) para gestionar el proceso de recuperacion de credenciales.
+
+2. Se creo un nuevo servicio de correo electronico (MailService.java) para enviar notificaciones de restablecimiento de contrasena a los usuarios.
+
+3. Se actualizo el controlador de autenticacion (AuthController.java) con nuevos endpoints para manejar las solicitudes de restablecimiento de contrasena.
+
+4. Se modifico la configuracion de seguridad (SecurityConfig.java) para permitir acceso sin autenticacion a los endpoints de recuperacion de contrasena.
+
+5. Se actualizo el archivo de dependencias del proyecto (pom.xml) para agregar las librerias necesarias para el envio de correos electronicos.
+
+### Commits
+- aa24603 agrego metodos y controladores para restablecer contrase├▒a (por Alejandro, 2026-03-10)
+
+### Archivos modificados
+- M	pom.xml
+- M	src/main/java/ar/com/tecnoaccion/config/SecurityConfig.java
+- M	src/main/java/ar/com/tecnoaccion/controllers/AuthController.java
+- M	src/main/java/ar/com/tecnoaccion/services/AuthService.java
+- A	src/main/java/ar/com/tecnoaccion/services/MailService.java
+
