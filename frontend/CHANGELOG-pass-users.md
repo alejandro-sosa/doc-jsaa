@@ -112,3 +112,28 @@ RESUMEN DE CAMBIOS - Rama pass-users
 ### Archivos modificados
 - M	README.md
 
+
+---
+
+## Fecha: 2026-03-10 - 2026-03-10 10:48
+
+### Rama: pass-users
+**Proyecto:** bofe
+
+### Resumen de cambios
+Cambios realizados en la rama pass-users del proyecto bofe:
+
+1. Actualizacion del archivo README.md con documentacion adicional.
+
+2. Commit realizado el 10 de marzo de 2026 por el usuario Alejandro.
+
+3. Los cambios corresponden exclusivamente a tareas de documentacion del proyecto.
+
+4. Modificacion clasificada como menor (M) en el repositorio.
+
+### Commits
+- 5010029 Documentacion. (por Alejandro, 2026-03-10)
+
+### Archivos modificados
+- M	README.md
+
