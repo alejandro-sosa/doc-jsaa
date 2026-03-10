@@ -63,3 +63,30 @@ RESUMEN DE CAMBIOS - RAMA: pass-users
 - M	src/main/java/ar/com/tecnoaccion/controllers/GroupController.java
 - M	src/main/java/ar/com/tecnoaccion/domain/persistence/repositories/PasswordHistoryRepository.java
 
+
+---
+
+## Fecha: 2026-03-10 - 2026-03-10 10:31
+
+### Rama: pass-users
+**Proyecto:** bofe
+
+### Resumen de cambios
+Cambios en rama pass-users, proyecto bofe
+
+1. Se actualizo el archivo README.md con cambios en la documentacion.
+
+2. Los cambios fueron realizados por Alejandro el 10 de marzo de 2026.
+
+3. Se implemento prueba de documentacion automatica.
+
+4. Un archivo fue modificado en total durante este commit.
+
+5. Los cambios forman parte de la rama pass-users del proyecto bofe.
+
+### Commits
+- 9926dc3 Prueba documenttacion automatica. (por Alejandro, 2026-03-10)
+
+### Archivos modificados
+- M	README.md
+
